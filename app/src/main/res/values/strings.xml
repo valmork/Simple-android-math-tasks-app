@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_10_5">10+5 = ?</string>
+    <string name="answer">ANSWER</string>
+    <string name="Incorrect_answer">Sorry, the answer is incorrect!</string>
+    <string name="input_answer">Input answer</string>
+    <string name="Correct_answer">You are right!</string>
+</resources>
