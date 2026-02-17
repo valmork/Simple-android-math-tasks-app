@@ -52,19 +52,19 @@
 ### Главный экран
 
 ```
-![Main screen](screenshots/main_screen.png)
+![Main screen](screenshots/main_screen.jpg)
 ```
 
-### Экран с заданием
+### Экран с верным ответом
 
 ```
-![Task screen](screenshots/task_screen.png)
+![Right answer](screenshots/right_answer_screen.jpg)
 ```
 
-### Экран результата
+### Экран с неверным ответом
 
 ```
-![Result screen](screenshots/result_screen.png)
+![Wrong answer](screenshots/wrong_answer_screen.jpg)
 ```
 
 ---
