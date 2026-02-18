@@ -42,13 +42,13 @@
 ## Скриншоты
 
 ### Главный экран
-![Main screen](screenshots/main_screen.jpg)
+![Main screen](screenshots/main_screen_new.jpg)
 
 ### Экран с верным ответом
-![Right answer](screenshots/right_answer_screen.jpg)
+![Right answer](screenshots/right_answer_screen_new.jpg)
 
 ### Экран с неверным ответом
-![Wrong answer](screenshots/wrong_answer_screen.jpg)
+![Wrong answer](screenshots/wrong_answer_screen_new.jpg)
 
 
 ---
